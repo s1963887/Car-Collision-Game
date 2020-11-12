@@ -1,2 +1,2 @@
-# Car-Collision-Game
-A simulator that detects how fatal a crash is.
+# p5.play-boilerplate
+Boiler plate for p5.play
